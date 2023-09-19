@@ -21,3 +21,15 @@ figure {
 .secondpage td {
   background-color: #F9CFC2;
 }
+
+.thirdpage table,
+.thirdpage th,
+.thirdpage td {
+  border: 1px solid white;
+  border-collapse: collapse;
+}
+
+.thirdpage th,
+.thirdpage td {
+  background-color: #9BDBE5;
+}
